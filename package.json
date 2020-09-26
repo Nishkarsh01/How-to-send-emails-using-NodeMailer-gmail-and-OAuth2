@@ -1,0 +1,18 @@
+{
+  "name": "nodemailerProject",
+  "version": "1.0.0",
+  "description": "sending an email",
+  "main": "send-email.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "nishkarshDubb",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "googleapis": "^60.0.1",
+    "nodemailer": "^6.4.11"
+  }
+}
