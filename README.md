@@ -2,7 +2,7 @@
 
 The email will be sent from an API end point and will use OAuth2 credentials to send them, this is much better from a security point of view as we don’t have to store actual email credentials but instead store and use access tokens and these can only be used for certain purposes for a short amount of time.
 
-	![nodemailer, gmail and node logo](images/1.jpeg)
+![nodemailer, gmail and node logo](images/1.jpeg)
 
 ## Author
 > Nishkarsh01
