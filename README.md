@@ -5,5 +5,22 @@ The email will be sent from an API end point and will use OAuth2 credentials to 
 ## Author
 > Nishkarsh01
 
+## Clone this Repository
+
+```bash
+git clone https://github.com/Nishkarsh01/How-to-send-emails-using-NodeMailer-gmail-and-OAuth2.git
+```
+
+## Usage
+
+### `npm install`
+
+### `node server.js`
+
+
+
+
+
+
 
 
