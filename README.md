@@ -13,9 +13,9 @@ git clone https://github.com/Nishkarsh01/How-to-send-emails-using-NodeMailer-gma
 
 ## Usage
 
-### `npm install`
+#### `npm install`
 
-### `node server.js`
+#### `node server.js`
 
 ## Collaborate
 To collaborate, reach me on [nishdubb11@gmail.com]()
