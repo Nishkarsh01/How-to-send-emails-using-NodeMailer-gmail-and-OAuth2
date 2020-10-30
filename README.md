@@ -20,3 +20,7 @@ git clone https://github.com/Nishkarsh01/How-to-send-emails-using-NodeMailer-gma
 ## Collaborate
 To collaborate, reach me on [nishdubb11@gmail.com]()
 
+
+## Further help
+For more information you can checkout:
+Open https://medium.com/@alexb72/how-to-send-emails-using-a-nodemailer-gmail-and-oauth2-fe19d66451f9
