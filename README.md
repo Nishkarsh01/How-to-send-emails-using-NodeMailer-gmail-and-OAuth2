@@ -5,7 +5,7 @@ The email will be sent from an API end point and will use OAuth2 credentials to 
 ![nodemailer, gmail and node logo](images/1.jpeg)
 
 ## Author
-> Nishkarsh01
+> Nishkarsh Dubb
 
 ## Clone this Repository
 
